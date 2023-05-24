@@ -3,7 +3,7 @@
 
   * Help Desk / Desktop
     - Help Desk Technician
-    - Desktop Analist
+    - Desktop Analyst
   * System Engineer / System Administrator
     - Windows Adminstrator 
     - Linux Administrator
